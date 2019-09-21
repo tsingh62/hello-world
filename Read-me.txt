@@ -1,3 +1,0 @@
-This is my first change
-
-1. This is my change to feature1 - branch

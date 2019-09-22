@@ -11,3 +11,6 @@ Second Trigger to check Jenkins again
 
 
 another trigger
+
+
+Trying the 1st type buil-in for jenkins

@@ -16,3 +16,4 @@ another trigger
 Trying the 1st type buil-in for jenkins
 
 ---built -in auto update every min every day every month every year---
+# sample
